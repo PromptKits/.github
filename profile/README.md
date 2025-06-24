@@ -1,5 +1,3 @@
-# Prompt Management Platform
-
 <div align="center">
   <img src="https://github.com/PromptKits/.github/blob/main/profile/resources/logo.png" alt="Logo" width="200"/>
   
